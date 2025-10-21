@@ -53,7 +53,6 @@ Design and deploy two interactive Tableau dashboards that:
 - **Sales Focus:** Expand marketing around high-performing categories (Chairs, Binders) and re-evaluate pricing on low-margin products.  
 - **Customer Strategy:** Introduce tiered loyalty programs targeting 1–3 order customers to increase repeat engagement.  
 - **Account Management:** Build a Key Account framework for top 10 clients driving the majority of profit.  
-- **Operational Planning:** Prepare for Q2 peaks and Q4 dips with predictive inventory and staffing alignment.
 
 ---
 
@@ -77,8 +76,4 @@ Design and deploy two interactive Tableau dashboards that:
 
 ---
 
-## 🧠 Author
-**AM MICH**  
-Strategic Business Intelligence & Growth Consultant  
-Transforming complex data into strategy, clarity, and measurable growth.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AM--MICH-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+
