@@ -1,59 +1,84 @@
 # 📊 Sales & Customer Performance Dashboard (Tableau)
 
 ## 🧠 Background & Business Context
-In today’s competitive retail landscape, visibility into both **sales performance** and **customer behavior** is essential for driving growth.  
-This project simulates a real-world scenario where a retail company’s leadership team needs **data-driven insights** to monitor sales performance, understand purchasing trends, and optimize customer engagement strategies.
+In a competitive retail landscape, visibility into **sales performance** and **customer behavior** is crucial for driving sustainable growth.  
+This project simulates a real-world executive analytics solution designed to empower sales and marketing leaders with interactive insights that guide **revenue optimization**, **customer retention**, and **strategic decision-making**.
 
-Two interconnected Tableau dashboards were developed:
-- **Sales Performance Dashboard** — for executives and sales managers to assess revenue, profit, and product trends.
-- **Customer Insights Dashboard** — for marketing and management teams to understand customer loyalty, profitability, and retention behavior.
+Two integrated Tableau dashboards were developed:
+- **Sales Performance Dashboard** — helps executives track revenue, profit, and product trends.
+- **Customer Insights Dashboard** — enables marketing teams to analyze customer loyalty, order frequency, and profitability.
 
-Together, they function as a unified business intelligence solution to align sales, marketing, and operational decision-making.
+Together, they deliver an end-to-end view of commercial performance.
+
+---
 
 ## 🎯 Objective
-Design and deploy interactive Tableau dashboards that:
-- Track **year-over-year performance** in sales, profit, and order quantity.  
-- Identify **seasonal sales trends**, **top-performing products**, and **lagging categories**.  
-- Provide a **customer-centric view** highlighting loyalty, order frequency, and top contributors to profit.  
-- Enable **filterable, data-driven exploration** for management and team leads.
+Design and deploy two interactive Tableau dashboards that:
+- Track **year-over-year sales and profit trends** to identify growth opportunities.
+- Evaluate **product subcategory performance** for strategic pricing and promotions.
+- Reveal **customer order patterns and profitability drivers** to enhance retention.
+- Enable leadership to explore insights dynamically by region, product, and time.
+
+---
 
 ## 💼 Business Value
-This dashboard delivers measurable business value by enabling:
-- **Performance Monitoring:** Real-time visibility into revenue, profit, and quantity trends helps management stay proactive.  
-- **Strategic Decision-Making:** Clear identification of high-performing product lines and customer segments supports pricing and promotion strategies.  
-- **Customer Retention:** Customer behavior insights guide loyalty and retention campaigns.  
-- **Operational Efficiency:** Sales managers can prioritize underperforming regions or product categories and take corrective actions faster.
+- **Executive Clarity:** Transforms complex sales data into clear, decision-ready visuals.  
+- **Operational Agility:** Helps teams act on low-margin product signals early.  
+- **Customer Retention:** Identifies top-performing clients and loyalty opportunities.  
+- **Revenue Growth:** Supports data-informed marketing and pricing strategies.
+
+---
 
 ## 🔍 Key Insights
 
 ### 🧭 Sales Performance Dashboard
-- **Total Sales:** $733K in 2023 — an **increase of 20.36% YoY**, driven primarily by growth in Office Supplies and Technology categories.  
-- **Total Profit:** $93K, improving **14.24% YoY**, showing a healthy balance between revenue and cost management.  
-- **Quantity Sold:** Rose **26.83% YoY**, indicating both stronger demand and improved distribution.  
-- **Top Product Subcategories:** Chairs, Binders, and Storage lead sales volume and profit contribution, while Tables show high sales but lower profit — suggesting margin optimization opportunities.  
-- **Profitability Trends:** Weekly analysis shows **steady performance above average in over half the year**, though certain weeks fall below $1K average profit, signaling potential supply or discounting inefficiencies.  
-- **Sales Seasonality:** Peaks occur mid-year (June–August), consistent with promotion cycles and Q2 marketing campaigns.
+- **Total Sales:** $733K in 2023 — an **increase of 20.36% YoY**, led by Office Supplies and Technology categories.  
+- **Total Profit:** $93K, up **14.24% YoY**, reflecting improved cost control.  
+- **Quantity Sold:** Increased **26.83% YoY**, signaling strong customer demand.  
+- **Top Product Subcategories:** Chairs, Binders, and Storage drive the most revenue; Tables show strong sales but weaker margins.  
+- **Profitability Trends:** Over 50% of weeks outperformed the $1K average profit benchmark, showing stable but slightly seasonal profit performance.  
+- **Sales Seasonality:** Peak sales between **June–August** align with mid-year promotional campaigns.
 
 ### 👥 Customer Insights Dashboard
-- **Active Customers:** 693 in 2023 — an **8.62% increase YoY**, showing consistent acquisition growth.  
-- **Sales per Customer:** $1,058, up **10.8% YoY**, suggesting higher purchase frequency and/or higher-value transactions.  
-- **Total Orders:** 1,687 total, reflecting a **28.29% YoY** rise and stronger repeat engagement.  
-- **Customer Order Distribution:** Most customers (70%) place 1–3 orders annually; retention and loyalty campaigns could target this large mid-tier segment for conversion to high-frequency buyers.  
-- **Top 10 Customers:** Account for **over 20% of total profit**, highlighting the importance of strategic account management.  
-- **Top Customer:** *Andy Reiter* generated $2.6K profit from two large orders, indicating the influence of high-value, low-frequency clients.  
+- **Active Customers:** 693 in 2023 — up **8.62% YoY**, indicating expanding reach.  
+- **Sales per Customer:** $1,058 (+10.8% YoY), showing deeper customer engagement.  
+- **Total Orders:** 1,687 (+28.29% YoY), confirming stronger repeat purchase behavior.  
+- **Customer Order Distribution:** Most customers (70%) make 1–3 orders annually — a prime opportunity for retention campaigns.  
+- **Top 10 Customers:** Generate **20%+ of total profit**, highlighting key account dependency.  
+- **Top Customer:** *Andy Reiter* delivered $2.6K in profit from just two high-value purchases.
 
-### 💼 Business Implications
-- **Sales Focus:** Continue driving high-performing subcategories (Chairs, Binders) while re-evaluating pricing or cost structure for low-margin products like Tables.  
-- **Customer Retention:** Launch loyalty incentives for the 1–3-order segment to grow average order value and frequency.  
-- **Account Strategy:** Establish a dedicated Key Account Program for top-10 customers driving outsized profit.  
-- **Operational Insight:** Leverage mid-year peaks to plan inventory and promotional campaigns proactively, minimizing late-year dips.  
+---
 
+## 💡 Business Implications
+- **Sales Focus:** Expand marketing around high-performing categories (Chairs, Binders) and re-evaluate pricing on low-margin products.  
+- **Customer Strategy:** Introduce tiered loyalty programs targeting 1–3 order customers to increase repeat engagement.  
+- **Account Management:** Build a Key Account framework for top 10 clients driving the majority of profit.  
+- **Operational Planning:** Prepare for Q2 peaks and Q4 dips with predictive inventory and staffing alignment.
+
+---
 
 ## 🧭 Features & Interactivity
-- **Dynamic Year Filter** — Users can select any year to view historical performance.  
-- **Cross-Dashboard Navigation** — Seamless transition between Sales and Customer dashboards.  
-- **Interactive Filters** — Filter by category, subcategory, region, state, and city.  
-- **Visual Highlights** — Color-coded indicators flag underperforming months or categories
+- **Dynamic Year Selector** — Compare performance across multiple years.  
+- **Interactive Filtering** — Filter by category, subcategory, region, state, or city.  
+- **Cross-Dashboard Navigation** — Seamlessly switch between Sales and Customer views.  
+- **Color-Coded Highlights** — Easily identify high and low performing months.
 
+---
 
+## 🧰 Tools & Technologies
+- **Visualization:** Tableau  
+- **Data Preparation:** Excel / CSV  
+- **Data Source:** Simulated business data for sales and customer transactions  
 
+---
+
+## 🔗 Dashboard
+👉 [**View Interactive Tableau Dashboard**](https://public.tableau.com/shared/JJ3KG7CWF?:display_count=n&:origin=viz_share_link)
+
+---
+
+## 🧠 Author
+**AM MICH**  
+Strategic Business Intelligence & Growth Consultant  
+Transforming complex data into strategy, clarity, and measurable growth.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AM--MICH-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
